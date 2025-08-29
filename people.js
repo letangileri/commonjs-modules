@@ -1,4 +1,4 @@
-import {getName} from "./names.js";
+import getName from "./names.js";
 import {getHobbies} from "./hobbies.js";
 
 function getPeople (){
