@@ -1,4 +1,5 @@
-function getName(firstName, lastName){
-    return {firstName, lastName};
+function getHobbies (hobbyOne, hobbyTwo, hobbyThree){
+    return [hobbyOne, hobbyTwo, hobbyThree];
 }
 
+export {getHobbies}
